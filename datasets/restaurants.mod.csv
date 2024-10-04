@@ -1,0 +1,337 @@
+,name,addr,city,phone,type,cuisine_type
+0,arnie morton's of chicago, 435 s. la cienega blv . ,los angeles,3102461501,american,amurican
+1,art's delicatessen, 12224 ventura blvd. ,studio city,8187621221,american,american
+2,campanile, 624 s. la brea ave. ,los angeles,2139381447,american,ameerican
+3,fenix, 8358 sunset blvd. west ,hollywood,2138486677,american,aamerican
+4,grill on the alley, 9560 dayton way ,los angeles,3102760615,american,ameriican
+5,restaurant katsu, 1972 n. hillhurst ave. ,los angeles,2136651891,asian,amerrican
+6,locanda veneta, 3rd st. ,los angeles,3102741893,italian,ameerrican
+7,matsuhisa, 129 n. la cienega blvd. ,beverly hills,3106599639,asian,ammereican
+8,the palm, 9001 santa monica blvd. ,los angeles,3105508811,american,americann
+9,philippe's the original, 1001 n. alameda st. ,los angeles,2136283781,american,americano
+10,rex il ristorante, 617 s. olive st. ,los angeles,2136272300,italian,ammericann
+11,valentino, 3115 pico blvd. ,santa monica,3108294313,italian,americin
+12,yujean kang's gourmet chinese cuisine,67 n. raymond ave. ,los angeles,8185850855,asian,amerycan
+13,21 club,21 w. 52nd st. ,new york,2125827200,american,america
+14,aureole,34 e. 61st st. ,new york,2123191660,american,merican
+15,cafe lalo, 201 w. 83rd st. ,new york,2124966031,coffeebar,asian
+16,carmine's, 2450 broadway between 90th and 91st sts . ,new york,2123622200,italian,asiane
+17,chanterelle, 2 harrison st. near hudson st. ,new york,2129666960,american,asiann
+18,dawat, 210 e. 58th st. ,new york,2123557555,asian,asiian
+19,felidia, 243 e. 58th st. ,new york,2127581479,italian,asiaan
+20,four seasons grill room,99 e. 52nd st. ,new york,2127549494,american,asianne
+21,gotham bar & grill,12 e. 12th st. ,new york,2126204020,american,asiat
+22,gramercy tavern,42 e. 20th st. between park ave. s and broadway ,new york,2124770777,american,italiann
+23,jo jo, 160 e. 64th st. ,new york,2122235656,american,italiano
+24,lespinasse, 2 e. 55th st. ,new york,2123396719,american,italianne
+25,march, 405 e. 58th st. ,new york,2127546272,american,italiaan
+26,mesa grill, 102 5th ave. between 15th and 16th sts . ,new york,2128077400,american,italiian
+27,mi cocina,57 jane st. off hudson st. ,new york,2126278273,mexican,itallian
+28,park avenue cafe, 100 e. 63rd st. ,new york,2126441900,american,italian
+29,river cafe, 1 water st. at the east river ,brooklyn,7185225200,american,amurican
+30,san domenico, 240 central park s ,new york,2122655959,italian,american
+31,seryna,11 e. 53rd st. ,new york,2129809393,asian,ameerican
+32,shun lee west,43 w. 65th st. ,new york,2123718844,asian,aamerican
+33,sign of the dove, 1110 3rd ave. at 65th st. ,new york,2128618080,american,ameriican
+34,smith & wollensky, 201 e. 49th st. ,new york,2127531530,american,amerrican
+35,tavern on the green, in central park at 67th st. ,new york,2128733200,american,ameerrican
+36,union square cafe,21 e. 16th st. ,new york,2122434020,american,ammereican
+37,virgil's, 152 w. 44th st. ,new york,2129219494,american,americann
+38,chin's, 3200 las vegas blvd. s ,las vegas,7027338899,asian,americano
+39,coyote cafe, 3799 las vegas blvd. s ,las vegas,7028917349,southwestern,ammericann
+40,steak house, 2880 las vegas blvd. s ,las vegas,7027340410,steakhouses,americin
+41,abruzzi, 2355 peachtree rd. . peachtree battle shopping center ,atlanta,4042618186,italian,amerycan
+42,bone's, 3130 piedmont road ,atlanta,4042372663,american,america
+43,buckhead diner, 3073 piedmont road ,atlanta,4042623336,american,merican
+44,delectables, 1 margaret mitchell sq. ,atlanta,4046812909,american,asian
+45,georgia grille, 2290 peachtree rd. . peachtree square shopping center ,atlanta,4043523517,american,asiane
+46,heera of india, 595 piedmont ave. rio shopping mall ,atlanta,4048764408,asian,asiann
+47,la grotta, 2637 peachtree rd. . peachtree house condominium ,atlanta,4042311368,italian,asiian
+48,mary mac's tea room, 224 ponce de leon ave. ,atlanta,4048761800,southern,asiaan
+49,veni vidi vici,41 14th st. ,atlanta,4048758424,italian,asianne
+50,boulevard, 1 mission st. ,san francisco,4155436084,american,asiat
+51,campton place, 340 stockton st. ,san francisco,4159555555,american,italiann
+52,hawthorne lane,22 hawthorne st. ,san francisco,4157779779,american,italiano
+53,khan toke thai house, 5937 geary blvd. ,san francisco,4156686654,asian,italianne
+54,mifune japan center kintetsu building, 1737 post st. ,san francisco,4159220337,asian,italiaan
+55,postrio, 545 post st. ,san francisco,4157767825,american,italiian
+56,ritz-carlton restaurant and dining room, 600 stockton st. ,san francisco,4152967465,american,itallian
+57,rose pistola, 532 columbus ave. ,san francisco,4153990499,italian,italian
+58,il nido, 251 e. 53rd st. ,new york,2127538450,italian,amurican
+59,remi, 145 w. 53rd st. ,new york,2125814242,italian,american
+60,adriano's ristorante, 2930 beverly glen circle ,los angeles,3104759807,italian,ameerican
+61,barney greengrass, 9570 wilshire blvd. ,beverly hills,3107775877,american,aamerican
+62,border grill, 4th st. ,los angeles,3104511655,mexican,ameriican
+63,broadway deli, 3rd st. promenade ,santa monica,3104510616,american,amerrican
+64,ca   brea, 346 s. la brea ave. ,los angeles,2139382863,italian,ameerrican
+65,ca   del sol, 4100 cahuenga blvd. ,los angeles,8189854669,italian,ammereican
+66,canter's, 419 n. fairfax ave. ,los angeles,2136512030,american,americann
+67,chan dara, 310 n. larchmont blvd. ,los angeles,2134671052,asian,americano
+68,drago, 2628 wilshire blvd. ,santa monica,3108281585,italian,ammericann
+69,ed debevic's, 134 n. la cienega ,los angeles,3106591952,american,americin
+70,el cholo, 1121 s. western ave. ,los angeles,2137342773,mexican,amerycan
+71,gilliland's, 2424 main st. ,santa monica,3103923901,american,america
+72,gladstone's, 4 fish 17300 pacific coast hwy . at sunset blvd. ,pacific palisades,3104543474,american,merican
+73,hard rock cafe, 8600 beverly blvd. ,los angeles,3102767605,american,asian
+74,harry's bar & american grill, 2020 ave. of the stars ,los angeles,3102772333,italian,asiane
+75,il fornaio cucina italiana, 301 n. beverly dr. ,los angeles,3105508330,italian,asiann
+76,joss, 9255 sunset blvd. ,los angeles,3102761886,asian,asiian
+77,le colonial, 8783 beverly blvd. ,los angeles,3102890660,asian,asiaan
+78,louise's trattoria, 4500 los feliz blvd. ,los angeles,2136670777,italian,asianne
+79,mon kee seafood restaurant, 679 n. spring st. ,los angeles,2136286717,asian,asiat
+80,morton's, 8764 melrose ave. ,los angeles,3102765205,american,italiann
+81,nate   n   al's, 414 n. beverly dr. ,los angeles,3102740101,american,italiano
+82,nicola, 601 s. figueroa st. ,los angeles,2134850927,american,italianne
+83,ocean avenue, 1401 ocean ave. ,santa monica,3103945669,american,italiaan
+84,orleans, 11705 national blvd. ,los angeles,3104794187,cajun,italiian
+85,pacific dining car, 6th st. ,los angeles,2134836000,american,itallian
+86,paty's, 10001 riverside dr. ,toluca lake,8187619126,american,italian
+87,posto, 14928 ventura blvd. ,sherman oaks,8187844400,italian,amurican
+88,prego, 362 n. camden dr. ,los angeles,3102777346,italian,american
+89,rj's the rib joint, 252 n. beverly dr. ,los angeles,3102747427,american,ameerican
+90,remi, 3rd st. promenade ,santa monica,3103936545,italian,aamerican
+91,restaurant horikawa, 111 s. san pedro st. ,los angeles,2136809355,asian,ameriican
+92,roscoe's house of chicken   n   waffles, 1514 n. gower st. ,los angeles,2134669329,american,amerrican
+93,swingers, 8020 beverly blvd. ,los angeles,2136535858,american,ameerrican
+94,tavola calda, 7371 melrose ave. ,los angeles,2136586340,italian,ammereican
+95,the mandarin, 430 n. camden dr. ,los angeles,3108590926,asian,americann
+96,tommy tang's, 7313 melrose ave. ,los angeles,2139375733,asian,americano
+97,tra di noi, 3835 cross creek rd. ,los angeles,3104560169,italian,ammericann
+98,trader vic's, 9876 wilshire blvd. ,los angeles,3102766345,asian,americin
+99,vida, 1930 north hillhurst ave. ,los feliz,2136604446,american,amerycan
+100,west beach cafe,60 n. venice blvd. ,los angeles,3108235396,american,america
+101,20 mott,20 mott st. between bowery and pell st. ,new york,2129640380,asian,merican
+102,9 jones street, 9 jones st. ,new york,2129891220,american,asian
+103,aja, 937 broadway at 22nd st. ,new york,2124738388,american,asiane
+104,alamo, 304 e. 48th st. ,new york,2127590590,mexican,asiann
+105,alley's end, 311 w. 17th st. ,new york,2126278899,american,asiian
+106,ambassador grill, 1 united nations plaza at 44th st. ,new york,2127025014,american,asiaan
+107,american place, 2 park ave. at 32nd st. ,new york,2126842122,american,asianne
+108,anche vivolo, 222 e. 58th st. between 2nd and 3rd aves . ,new york,2123080112,italian,asiat
+109,arizona, 206 206 e. 60th st. ,new york,2128380440,american,italiann
+110,arturo's, 106 w. houston st. off thompson st. ,new york,2126773820,italian,italiano
+111,au mandarin, 200-250 vesey st. world financial center ,new york,2123850313,asian,italianne
+112,barbetta, 321 w. 46th st. ,new york,2122469171,italian,italiaan
+113,ben benson's, 123 w. 52nd st. ,new york,2125818888,american,italiian
+114,big cup, 228 8th ave. between 21st and 22nd sts . ,new york,2122060059,coffeebar,itallian
+115,billy's, 948 1st ave. between 52nd and 53rd sts . ,new york,2127531870,american,italian
+116,boonthai, 1393a 2nd ave. between 72nd and 73rd sts . ,new york,2122498484,asian,amurican
+117,brothers bar-b-q, 225 varick st. at clarkston st. ,new york,2127272775,american,american
+118,bruno, 240 e. 58th st. ,new york,2126884190,italian,ameerican
+119,bryant park grill roof restaurant and bp cafe,25 w. 40th st. between 5th and 6th aves . ,new york,2128406500,american,aamerican
+120,c3, 103 waverly pl . near washington sq. ,new york,2122541200,american,ameriican
+121,cafe bianco, 1486 2nd ave. between 77th and 78th sts . ,new york,2129882655,coffeebar,amerrican
+122,cafe la fortuna,69 w. 71st st. ,new york,2127245846,coffeebar,ameerrican
+123,caffe dante,81 macdougal st. between houston and bleeker sts . ,new york,2129825275,coffeebar,ammereican
+124,caffe dell   artista,46 greenwich ave. ,new york,2126454431,coffeebar,americann
+125,caffe reggio, 119 macdougal st. between 3rd and bleecker sts . ,new york,2124759557,coffeebar,americano
+126,caffe roma, 385 broome st. at mulberry ,new york,2122268413,coffeebar,ammericann
+127,caffe vivaldi,32 jones st. at bleecker st. ,new york,2126917538,coffeebar,americin
+128,caffe bondi ristorante, 7 w. 20th st. ,new york,2126918136,italian,amerycan
+129,cendrillon asian grill & marimba bar,45 mercer st. between broome and grand sts . ,new york,2123439012,asian,america
+130,chiam, 160 e. 48th st. ,new york,2123712323,asian,merican
+131,china grill,60 w. 53rd st. ,new york,2123337788,american,asian
+132,coco pazzo,23 e. 74th st. ,new york,2127940205,italian,asiane
+133,columbus bakery, 53rd sts . ,new york,2124210334,coffeebar,asiann
+134,corrado cafe, 1013 3rd ave. between 60th and 61st sts . ,new york,2127535100,coffeebar,asiian
+135,cupcake cafe, 522 9th ave. at 39th st. ,new york,2124651530,coffeebar,asiaan
+136,da nico, 164 mulberry st. between grand and broome sts . ,new york,2123431212,italian,asianne
+137,dean & deluca, 121 prince st. ,new york,2122548776,coffeebar,asiat
+138,diva, 341 w. broadway near grand st. ,new york,2129419024,italian,italiann
+139,duane park cafe, 157 duane st. between w. broadway and hudson st. ,new york,2127325555,american,italiano
+140,el teddy's, 219 w. broadway between franklin and white sts . ,new york,2129417070,mexican,italianne
+141,em ily's, 1325 5th ave. at 111th st. ,new york,2129961212,american,italiaan
+142,em pire korea, 6 e. 32nd st. ,new york,2127251333,asian,italiian
+143,ernie's, 2150 broadway between 75th and 76th sts . ,new york,2124961588,american,itallian
+144,evergreen cafe, 1288 1st ave. at 69th st. ,new york,2127443266,asian,italian
+145,f. ille ponte ristorante,39 desbrosses st. near west st. ,new york,2122264621,italian,amurican
+146,fifty seven fifty seven,57 e. 57th st. ,new york,2127585757,american,american
+147,film center cafe, 635 9th ave. between 44th and 45th sts . ,new york,2122622525,american,ameerican
+148,fiorello's roman cafe, 1900 broadway between 63rd and 64th sts . ,new york,2125955330,italian,aamerican
+149,firehouse, 522 columbus ave. between 85th and 86th sts . ,new york,2125953139,american,ameriican
+150,first,87 1st ave. between 5th and 6th sts . ,new york,2126743823,american,amerrican
+151,fleur de jour, 348 e. 62nd st. ,new york,2123552020,coffeebar,ameerrican
+152,flowers,21 west 17th st. between 5th and 6th aves . ,new york,2126918888,american,ammereican
+153,follonico, 6 w. 24th st. ,new york,2126916359,italian,americann
+154,fraunces tavern,54 pearl st. at broad st. ,new york,2122690144,american,americano
+155,french roast cafe, 2340 broadway at 85th st. ,new york,2127991533,coffeebar,ammericann
+156,frico bar, 402 w. 43rd st. off 9th ave. ,new york,2125647272,italian,americin
+157,fujiyama mama, 467 columbus ave. between 82nd and 83rd sts . ,new york,2127691144,asian,amerycan
+158,gabriela's, 685 amsterdam ave. at 93rd st. ,new york,2129610574,mexican,america
+159,gallagher's, 228 w. 52nd st. ,new york,2122455336,american,merican
+160,girafe, 208 e. 58th st. between 2nd and 3rd aves . ,new york,2127523054,italian,asian
+161,global,33 93 2nd ave. between 5th and 6th sts . ,new york,2124778427,american,asiane
+162,golden unicorn,18 e. broadway at catherine st. ,new york,2129410911,asian,asiann
+163,grand ticino, 228 thompson st. between w. 3rd and bleecker sts . ,new york,2127775922,italian,asiian
+164,halcyon, 151 w. 54th st. in the rihga royal hotel ,new york,2124688888,american,asiaan
+165,hard rock cafe, 221 w. 57th st. ,new york,2124896565,american,asianne
+166,hi-life restaurant and lounge, 1340 1st ave. at 72nd st. ,new york,2122493600,american,asiat
+167,home,20 cornelia st. between bleecker and w. 4th st. ,new york,2122439579,american,italiann
+168,hudson river club, 4 world financial center ,new york,2127861500,american,italiano
+169,i trulli, 122 e. 27th st. between lexington and park aves . ,new york,2124817372,italian,italianne
+170,il cortile, 125 mulberry st. between canal and hester sts . ,new york,2122266060,italian,italiaan
+171,indochine, 430 lafayette st. between 4th st. and astor pl . ,new york,2125055111,asian,italiian
+172,internet cafe,82 e. 3rd st. between 1st and 2nd aves . ,new york,2126140747,coffeebar,itallian
+173,jewel of india,15 w. 44th st. ,new york,2128695544,asian,italian
+174,jimmy sung's, 219 e. 44th st. between 2nd and 3rd aves . ,new york,2126825678,asian,amurican
+175,joe allen, 326 w. 46th st. ,new york,2125816464,american,american
+176,judson grill, 152 w. 52nd st. ,new york,2125825252,american,ameerican
+177,lanza restaurant, 168 1st ave. between 10th and 11th sts . ,new york,2126747014,italian,aamerican
+178,lattanzi ristorante, 361 w. 46th st. ,new york,2123150980,italian,ameriican
+179,le colonial, 149 e. 57th st. ,new york,2127520808,asian,amerrican
+180,le gamin,50 macdougal st. between houston and prince sts . ,new york,2122544678,coffeebar,ameerrican
+181,le madri, 168 w. 18th st. ,new york,2127278022,italian,ammereican
+182,le marais, 150 w. 46th st. ,new york,2128690900,american,americann
+183,le select, 507 columbus ave. between 84th and 85th sts . ,new york,2128751993,american,americano
+184,lincoln tavern,51 w. 64th st. ,new york,2127218271,american,ammericann
+185,lola,30 west 22nd st. between 5th and 6th ave. ,new york,2126756700,american,americin
+186,main street, 446 columbus ave. between 81st and 82nd sts . ,new york,2128735025,american,amerycan
+187,mangia e bevi, 800 9th ave. at 53rd st. ,new york,2129563976,italian,america
+188,manhattan cafe, 1161 1st ave. between 63rd and 64th sts . ,new york,2128886556,american,merican
+189,manila garden, 325 e. 14th st. between 1st and 2nd aves . ,new york,2127776314,asian,asian
+190,marquet patisserie,15 e. 12th st. between 5th ave. and university pl . ,new york,2122299313,coffeebar,asiane
+191,match, 160 mercer st. between houston and prince sts . ,new york,2129069173,american,asiann
+192,matthew's, 1030 3rd ave. at 61st st. ,new york,2128384343,american,asiian
+193,mavalli palace,46 e. 29th st. ,new york,2126795535,asian,asiaan
+194,milan cafe and coffee bar, 120 w. 23rd st. ,new york,2128071801,coffeebar,asianne
+195,monkey bar,60 e. 54th st. ,new york,2128382600,american,asiat
+196,montien, 1134 1st ave. between 62nd and 63rd sts . ,new york,2124214433,asian,italiann
+197,morton's, 551 5th ave. at 45th st. ,new york,2129723315,american,italiano
+198,motown cafe, 104 w. 57th st. near 6th ave. ,new york,2125818030,american,italianne
+199,new york kom tang soot bul house,32 w. 32nd st. ,new york,2129478482,asian,italiaan
+200,new york noodletown,28 1/2 bowery at bayard st. ,new york,2123490923,asian,italiian
+201,newsbar, 2 w. 19th st. ,new york,2122553996,coffeebar,itallian
+202,odeon, 145 w. broadway at thomas st. ,new york,2122330507,american,italian
+203,orso, 322 w. 46th st. ,new york,2124897212,italian,amurican
+204,osteria al droge, 142 w. 44th st. ,new york,2129443643,italian,american
+205,otabe,68 e. 56th st. ,new york,2122237575,asian,ameerican
+206,pacifica, 138 lafayette st. between canal and howard sts . ,new york,2129414168,asian,aamerican
+207,palio, 151 w. 51st . st. ,new york,2122454850,italian,ameriican
+208,parioli romanissimo,24 e. 81st st. ,new york,2122882391,italian,amerrican
+209,pen & pencil, 205 e. 45th st. ,new york,2126828660,american,ameerrican
+210,penang soho, 109 spring st. between greene and mercer sts . ,new york,2122748883,asian,ammereican
+211,planet hollywood, 140 w. 57th st. ,new york,2123337827,american,americann
+212,popover cafe, 551 amsterdam ave. between 86th and 87th sts . ,new york,2125958555,american,americano
+213,post house,28 e. 63rd st. ,new york,2129352888,american,ammericann
+214,rain, 100 w. 82nd st. ,new york,2125010776,asian,americin
+215,republic, 37a union sq. w between 16th and 17th sts . ,new york,2126277172,asian,amerycan
+216,rosa mexicano, 1063 1st ave. at 58th st. ,new york,2127537407,mexican,america
+217,ruth's chris, 148 w. 51st st. ,new york,2122459600,american,merican
+218,s.p.q.r, 133 mulberry st. between hester and grand sts . ,new york,2129253120,italian,asian
+219,sal anthony's,55 irving pl . ,new york,2129829030,italian,asiane
+220,san pietro,18 e. 54th st. ,new york,2127539015,italian,asiann
+221,sant ambroeus, 1000 madison ave. between 77th and 78th sts . ,new york,2125702211,coffeebar,asiian
+222,sarabeth's kitchen, 423 amsterdam ave. between 80th and 81st sts . ,new york,2124966280,american,asiaan
+223,serendipity, 3 225 e. 60th st. ,new york,2128383531,american,asianne
+224,seventh regiment mess and bar, 643 park ave. at 66th st. ,new york,2127444107,american,asiat
+225,sfuzzi,58 w. 65th st. ,new york,2128733700,american,italiann
+226,shaan,57 w. 48th st. ,new york,2129778400,asian,italiano
+227,sofia fabulous pizza, 1022 madison ave. near 79th st. ,new york,2127342676,italian,italianne
+228,spring street natural restaurant & bar,62 spring st. at lafayette st. ,new york,2129660290,american,italiaan
+229,sweet   n   tart cafe,76 mott st. at canal st. ,new york,2123348088,asian,italiian
+230,t salon, 143 mercer st. at prince st. ,new york,2129253700,coffeebar,itallian
+231,tang pavillion,65 w. 55th st. ,new york,2129566888,asian,italian
+232,tapika, 950 8th ave. at 56th st. ,new york,2123973737,american,amurican
+233,the coffee pot, 350 9th ave. at 49th st. ,new york,2122653566,coffeebar,american
+234,the savannah club, 2420 broadway at 89th st. ,new york,2124961066,american,ameerican
+235,trattoria dell   arte, 900 7th ave. between 56th and 57th sts . ,new york,2122459800,italian,aamerican
+236,triangolo, 345 e. 83rd st. ,new york,2124724488,italian,ameriican
+237,tribeca grill, 375 greenwich st. near franklin st. ,new york,2129413900,american,amerrican
+238,trois jean, 154 e. 79th st. between lexington and 3rd aves . ,new york,2129884858,coffeebar,ameerrican
+239,tse yang,34 e. 51st st. ,new york,2126885447,asian,ammereican
+240,two two two, 222 w. 79th st. ,new york,2127990400,american,americann
+241,veniero's pasticceria, 342 e. 11th st. near 1st ave. ,new york,2126747264,coffeebar,americano
+242,verbena,54 irving pl . at 17th st. ,new york,2122605454,american,ammericann
+243,vince & eddie's,70 w. 68th st. ,new york,2127210068,american,americin
+244,vong, 200 e. 54th st. ,new york,2124869592,american,amerycan
+245,water club, 500 e. 30th st. ,new york,2126833333,american,america
+246,west, 63rd street steakhouse 44 w. 63rd st. ,new york,2122466363,american,merican
+247,zoe,90 prince st. between broadway and mercer st. ,new york,2129666722,american,asian
+248,annie's thai castle, 3195 roswell rd. ,atlanta,4042649546,asian,asiane
+249,anthonys, 3109 piedmont rd. . just south of peachtree rd. ,atlanta,4042627379,american,asiann
+250,atlanta fish market, 265 pharr rd. ,atlanta,4042623165,american,asiian
+251,bertolini's, 3500 peachtree rd. . phipps plaza ,atlanta,4042332333,italian,asiaan
+252,cafe renaissance, 7050 jimmy carter blvd. . norcross ,atlanta,7704410291,american,asianne
+253,camille's, 1186 n. highland ave. ,atlanta,4048727203,italian,asiat
+254,colonnade restaurant, 1879 cheshire bridge rd. ,atlanta,4048745642,southern,italiann
+255,french quarter food shop, 923 peachtree st. at 8th st. ,atlanta,4048752489,southern,italiano
+256,horseradish grill, 4320 powers ferry rd. ,atlanta,4042557277,southern,italianne
+257,hsu's gourmet, 192 peachtree center ave. at international blvd. ,atlanta,4046592788,asian,italiaan
+258,kamogawa, 3300 peachtree rd. . grand hyatt ,atlanta,4048410314,asian,italiian
+259,la grotta at ravinia dunwoody rd., holiday inn/crowne plaza at ravinia dunwoody ,atlanta,7703959925,italian,itallian
+260,little szechuan, c buford hwy . northwoods plaza doraville ,atlanta,7704510192,asian,italian
+261,mckinnon's louisiane, 3209 maple dr. ,atlanta,4042371313,southern,amurican
+262,mi spia dunwoody rd., park place across from perimeter mall dunwoody ,atlanta,7703931333,italian,american
+263,pleasant peasant, 555 peachtree st. at linden ave. ,atlanta,4048743223,american,ameerican
+264,pricci, 500 pharr rd. ,atlanta,4042372941,italian,aamerican
+265,r.j.'s uptown kitchen & wine bar, 870 n. highland ave. ,atlanta,4048757775,american,ameriican
+266,sa tsu ki, 3043 buford hwy . ,atlanta,4043255285,asian,amerrican
+267,sato sushi and thai, 6050 peachtree pkwy . norcross ,atlanta,7704490033,asian,ameerrican
+268,south city kitchen, 1144 crescent ave. ,atlanta,4048737358,southern,ammereican
+269,stringer's fish camp and oyster bar, 3384 shallowford rd. . chamblee ,atlanta,7704587145,southern,americann
+270,sundown cafe, 2165 cheshire bridge rd. ,atlanta,4043211118,american,americano
+271,taste of new orleans, 889 w. peachtree st. ,atlanta,4048745535,southern,ammericann
+272,antonio's, 3700 w. flamingo ,las vegas,7022527737,italian,americin
+273,bamboo garden, 4850 flamingo rd. ,las vegas,7028713262,asian,amerycan
+274,battista's hole in the wall, 4041 audrie st. at flamingo rd. ,las vegas,7027321424,italian,america
+275,bertolini's, 3570 las vegas blvd. s ,las vegas,7027354663,italian,merican
+276,broiler, 4111 boulder hwy . ,las vegas,7024327777,american,asian
+277,cafe michelle, 1350 e. flamingo rd. ,las vegas,7027358686,american,asiane
+278,capozzoli's, 3333 s. maryland pkwy . ,las vegas,7027315311,italian,asiann
+279,center stage plaza hotel, 1 main st. ,las vegas,7023862512,american,asiian
+280,em press court, 3570 las vegas blvd. s ,las vegas,7027317888,asian,asiaan
+281,golden steer, 308 w. sahara ave. ,las vegas,7023844470,steakhouses,asianne
+282,lillie langtry's, 129 e. fremont st. ,las vegas,7023857111,asian,asiat
+283,mandarin court, 1510 e. flamingo rd. ,las vegas,7027371234,asian,italiann
+284,margarita's mexican cantina, 3120 las vegas blvd. s ,las vegas,7027948200,mexican,italiano
+285,mikado, 3400 las vegas blvd. s ,las vegas,7027917111,asian,italianne
+286,venetian, 3713 w. sahara ave. ,las vegas,7028764190,italian,italiaan
+287,viva mercado's, 6182 w. flamingo rd. ,las vegas,7028718826,mexican,italiian
+288,yolie's, 3900 paradise rd. ,las vegas,7027940700,steakhouses,itallian
+289,2223, 2223 market st. ,san francisco,4154310692,american,italian
+290,acquarello, 1722 sacramento st. ,san francisco,4155675432,italian,amurican
+291,betelnut, 2030 union st. ,san francisco,4159298855,asian,american
+292,bix,56 gold st. ,san francisco,4154336300,american,ameerican
+293,buca giovanni, 800 greenwich st. ,san francisco,4157767766,italian,aamerican
+294,cafe adriano, 3347 fillmore st. ,san francisco,4154744180,italian,ameriican
+295,capp's corner, 1600 powell st. ,san francisco,4159892589,italian,amerrican
+296,carta, 1772 market st. ,san francisco,4158633516,american,ameerrican
+297,cypress club, 500 jackson st. ,san francisco,4152968555,american,ammereican
+298,fog city diner, 1300 battery st. ,san francisco,4159822000,american,americann
+299,gaylord's, ghirardelli sq. ,san francisco,4157718822,asian,americano
+300,grand cafe hotel monaco, 501 geary st. ,san francisco,4152920101,american,ammericann
+301,harbor village, 4 embarcadero center ,san francisco,4157818833,asian,americin
+302,harris, 2100 van ness ave. ,san francisco,4156731888,steakhouses,amerycan
+303,harry denton's, 161 steuart st. ,san francisco,4158821333,american,america
+304,hong kong flower lounge, 5322 geary blvd. ,san francisco,4156688998,asian,merican
+305,hong kong villa, 2332 clement st. ,san francisco,4157528833,asian,asian
+306,hyde street bistro, 1521 hyde st. ,san francisco,4154417778,italian,asiane
+307,il fornaio levi's plaza, 1265 battery st. ,san francisco,4159860100,italian,asiann
+308,izzy's steak & chop house, 3345 steiner st. ,san francisco,4155630487,steakhouses,asiian
+309,kabuto sushi, 5116 geary blvd. ,san francisco,4157525652,asian,asiaan
+310,kuleto's, 221 powell st. ,san francisco,4153977720,italian,asianne
+311,kyo-ya . sheraton palace hotel, 2 new montgomery st. at market st. ,san francisco,4155465000,asian,asiat
+312,l   osteria del forno, 519 columbus ave. ,san francisco,4159821124,italian,italiann
+313,le soleil, 133 clement st. ,san francisco,4156684848,asian,italiano
+314,macarthur park, 607 front st. ,san francisco,4153985700,american,italianne
+315,manora, 3226 mission st. ,san francisco,4158616224,asian,italiaan
+316,north india, 3131 webster st. ,san francisco,4159311556,asian,italiian
+317,one market, 1 market st. ,san francisco,4157775577,american,itallian
+318,oritalia, 1915 fillmore st. ,san francisco,4153461333,italian,italian
+319,palio d   asti, 640 sacramento st. ,san francisco,4153959800,italian,amurican
+320,pane e vino, 3011 steiner st. ,san francisco,4153462111,italian,american
+321,perry's, 1944 union st. ,san francisco,4159229022,american,ameerican
+322,rubicon, 558 sacramento st. ,san francisco,4154344100,american,aamerican
+323,rumpus, 1 tillman pl . ,san francisco,4154212300,american,ameriican
+324,sanppo, 1702 post st. ,san francisco,4153463486,asian,amerrican
+325,scala's bistro, 432 powell st. ,san francisco,4153958555,italian,ameerrican
+326,stars, 150 redwood alley ,san francisco,4158617827,american,ammereican
+327,stars cafe, 500 van ness ave. ,san francisco,4158614344,american,americann
+328,straits cafe, 3300 geary blvd. ,san francisco,4156681783,asian,americano
+329,thepin, 298 gough st. ,san francisco,4158639335,asian,ammericann
+330,ton kiang, 3148 geary blvd. ,san francisco,4157524440,asian,americin
+331,vivande porta via, 2125 fillmore st. ,san francisco,4153464430,italian,amerycan
+332,vivande ristorante, 670 golden gate ave. ,san francisco,4156739245,italian,america
+333,world wrapps, 2257 chestnut st. ,san francisco,4155639727,american,merican
+334,wu kong, 101 spear st. ,san francisco,4159579300,asian,asian
+335,yank sing, 427 battery st. ,san francisco,4155414949,asian,asiane
